@@ -4,4 +4,5 @@ Hello VERY GOOD people!
 Hello NICE people!
 
 This is GiT training session.
+Boo rebase. I dont like you.
 I hope everyone is well and is having a good time!
