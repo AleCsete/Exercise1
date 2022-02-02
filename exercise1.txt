@@ -1,0 +1,2 @@
+This is my forst exercise using Git.
+Good luck!!!
